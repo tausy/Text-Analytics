@@ -108,3 +108,5 @@ venv.bak/
 *.xml
 *.zip
 */blogs*
+*../.DS_Store*
+*.DS_Store*
